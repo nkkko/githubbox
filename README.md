@@ -49,6 +49,8 @@ This allows anybody to open your repo on CodeSandbox with one click.
 
 ```markdown
 [![Open in CodeSandbox](https://img.shields.io/badge/Open%20in-CodeSandbox-blue?style=flat-square&logo=codesandbox)](https://githubbox.com/dferber90/githubbox)
+
+[![Open in Codeanywhere](https://codeanywhere.com/img/open-in-codeanywhere-btn.svg)](https://app.codeanywhere.com/#https://github.com/dferber90/githubbox)
 ```
 
 Replace `https://githubbox.com/dferber90/githubbox` with your own githubbox.com URL.
